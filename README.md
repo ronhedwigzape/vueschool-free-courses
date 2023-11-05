@@ -1,6 +1,6 @@
 # Vue School Free Courses :mortar_board:
 
-Welcome to the **Vue School Free Courses** repository! This is a treasure trove for those who are unable to access video courses from Vue School. I have a collection of these courses saved for you in my Google Drive.
+Welcome to the **Vue School Free Courses** repository! This is a treasure trove for those who are unable to access video courses from [Vue School](https://vueschool.io/). I have a collection of these courses saved for you in my [Google Drive](https://drive.google.com/drive/folders/1OvIP7qfmsiTnZU-1v2fgjaNU_Lx-8z1I?usp=drive_link).
 
 ## Table of Contents
 
