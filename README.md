@@ -65,4 +65,4 @@ I hope you find these resources helpful. Enjoy learning at your own pace, and de
 
 ## :warning: Disclaimer
 
-All the content provided in this repository is for educational purposes only. I respect the rights of the content creators and ask you to do the same. If you're able to, please support Vue School by subscribing to their services.
+All the content provided in this repository is for educational purposes only. I respect the rights of the content creators and ask you to do the same. If you're able to, please support [Vue School](https://vueschool.io/plans) by subscribing to their services.
