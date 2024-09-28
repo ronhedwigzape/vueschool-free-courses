@@ -59,8 +59,11 @@ Learn how to use VueUse, a collection of useful and lightweight Vue.js 3 composi
 #### [Web Accessibility - Beginner](https://drive.google.com/drive/folders/1ZCs7hVfUWX5XFJPT_J_MIPYaLj1wJXcU?usp=drive_link)
 Learn the basics of web accessibility, and how to make your Vue.js applications more accessible and user-friendly for everyone.
 
-#### [Mastering Nuxt 3 - 2023 version](https://drive.google.com/drive/folders/1YiuZ29Z9bq8TAZWwi3lE1rKjena65o_9?usp=sharing)
+#### [Mastering Nuxt 3 - 2023 version](https://drive.google.com/drive/folders/1YiuZ29Z9bq8TAZWwi3lE1rKjena65o_9?usp=drive_link)
 Unlock the full potential of Nuxt 3 with this comprehensive course designed for developers of all levels. “Mastering Nuxt 3” guides you through the essentials and advanced features of the Nuxt 3 framework, enabling you to build robust, modern web applications from scratch.
+
+#### [Vue Developer Course 2023 Zero to Mastery (Pinia, Vitest)](https://drive.google.com/drive/folders/190oBl_Ii-ObQukRSbKpuiLAewF1caWiF?usp=drive_link)
+Unlock the full potential of Vue.js with this comprehensive course designed for developers of all levels. “Vue Developer Course 2023 Zero to Mastery” guides you through the essentials and advanced features of the Vue.js framework, including state management with Pinia and testing with Vitest, enabling you to build robust, modern web applications from scratch.
 
 ## :tada: Enjoy!
 
